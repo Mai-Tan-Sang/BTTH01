@@ -1,0 +1,29 @@
+D:\btthweek02\weel02\weel02\bin\Debug\weel02.exe.config
+D:\btthweek02\weel02\weel02\bin\Debug\weel02.exe
+D:\btthweek02\weel02\weel02\bin\Debug\weel02.pdb
+D:\btthweek02\weel02\weel02\bin\Debug\System.Data.SqlClient.dll
+D:\btthweek02\weel02\weel02\bin\Debug\System.Data.SqlClient.xml
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.csprojAssemblyReference.cache
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.Form1.resources
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.Properties.Resources.resources
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.GenerateResource.cache
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.CoreCompileInputs.cache
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.CopyComplete
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.exe
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.pdb
+D:\btthweek02\weel02\weel02\obj\Debug\weel02.Form3.resources
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\bin\Debug\weel02.exe.config
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\bin\Debug\weel02.exe
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\bin\Debug\weel02.pdb
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.Form1.resources
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.Form3.resources
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.Properties.Resources.resources
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.csproj.CopyComplete
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.exe
+C:\Users\DELL\Documents\Zalo Received Files\btthweek02\weel02\weel02\obj\Debug\weel02.pdb
